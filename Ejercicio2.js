@@ -1,4 +1,4 @@
-// Hacer un programa que imprima los números del 1 al 100.
+// 2.- Hacer un programa que imprima los números del 100 al 0, en orden decreciente.
 
 var j = 100;
 console.log(j);
